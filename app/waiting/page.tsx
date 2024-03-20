@@ -11,7 +11,7 @@ export default function WaitingScreen() {
   const [seconds, setSeconds] = useState(0);
 
   useEffect(() => {
-    const target = new Date("03/20/2024 20:09:59");
+    const target = new Date("03/26/2024 23:59:59");
 
     const interval = setInterval(() => {
       const now = new Date();
@@ -45,7 +45,13 @@ export default function WaitingScreen() {
         <>
           <div className="h-screen flex items-center flex-col justify-center">
             <div className="font-bold text-4xl text-center text-center m-20 text-red-700">
-              <video className="rounded-md" width="400" height="320" controls preload="none">
+              <video
+                className="rounded-md"
+                width="400"
+                height="320"
+                controls
+                preload="none"
+              >
                 <source src="Vod.mp4" type="video/mp4" />
               </video>
             </div>
@@ -84,10 +90,10 @@ export default function WaitingScreen() {
               </div>
             </div>
           </div>
-          <div className="font-bold text-4xl m-4 text-center">
+          <div className="font-bold text-6xl mt-6 text-center">
             Time Until Our Anniversary
           </div>
-          <div className="font-semibol text-2xl m-4 text-center">
+          <div className="font-semibold text-4xl m-4 text-center">
             Come back Here When it is time
           </div>
         </div>
