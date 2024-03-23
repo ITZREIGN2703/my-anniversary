@@ -19,7 +19,11 @@ export default function AnniversaryText() {
         chat with each other? You are my lucky charm because being of that mum
         thought that I stayed at school to study because I don&apost have laptop
         and she bought it for me.😂It was really funny how you brought that luck
-        to me sweetheart.
+        to me sweetheart. After that, we would also continue to chats. I
+        don&apost really know when I fell in love with you but I know for you
+        that right now you fill my heart. We made a lot of memories such as
+        drinking beer together, do you remember that? We also went to the gym
+        together, that was fun.
       </div>
     </div>
   );
