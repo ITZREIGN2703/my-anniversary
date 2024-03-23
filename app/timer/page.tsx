@@ -13,6 +13,13 @@ export default function AnniversaryText() {
         You have to read a lot today so get ready my love.🤣 It has been a year
         that we have been together, and I feel really lucky having you by my
         side.
+        <br />
+        Being with you, I think it is really lucky for me. Do you remember when
+        we are not together yet and we stay until 8 o&aposclock everyday to just
+        chat with each other? You are my lucky charm because being of that mum
+        thought that I stayed at school to study because I don&apost have laptop
+        and she bought it for me.😂It was really funny how you brought that luck
+        to me sweetheart.
       </div>
     </div>
   );
