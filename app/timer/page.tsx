@@ -42,12 +42,20 @@ export default function AnniversaryText() {
         that we will go through them together. We will not lose to anything that
         life throws at us because we are one.💝Something a little more serious
         though, after all the things we went though, we have to look into the
-        future and try to earn money by ourselves. It will also be a long road
-        for us, even though we will walk on different path because we want to do
-        different things, we will meet once again if we accomplished our goals.
-        I want to try many different things, travelling abroad with you, would
-        be the perfect holiday. When money is not a problem to us anymore, then
-        it would be perfect. 
+        future and try to earn money by ourselves. I want to try many different
+        things, travelling abroad with you, would be the perfect holiday. When
+        money is not a problem to us anymore, then it would be perfect. I would
+        like to try ice skiing, it would be a really fun activity for us to do
+        together.🤩You know, writing this I really didn&apos;t plan at all, I
+        just write whatever come into my mind. Another thing I want to say is
+        that, you have already received the present by the time you read this so
+        in the small notebook I want us to write anything in there, our feeling
+        that day, something we want to say, we can just write it in that book,
+        that book would be 1 year worth of memories for us too since we could
+        not remember everything. Our anniversary next year, let&apos;s celebrate
+        outside since at that time we already have work to do so we have money
+        to spend and also we will exchange the book on our second year
+        anniversary.💕❤️
       </div>
     </div>
   );
